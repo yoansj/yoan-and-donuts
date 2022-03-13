@@ -24,9 +24,10 @@ npm run build
 ```
 
 ## Thanks
-Thanks for reading this far !
-This experiment was made possible by [Three.js journey by Bruno Simon](https://threejs-journey.com) 🎉
+Thanks for reading this far ! <br />
+This experiment was made possible by [Three.js journey by Bruno Simon](https://threejs-journey.com) 🎉 <br />
 I'm still learning Three.js and I hope I can make beautiful websites soon !
-If you're interested at what I do you can follow me on Twitter [https://twitter.com/yoansj](https://twitter.com/yoansj)
-I'm currently looking for a part-time job 💼
+
+If you're interested at what I do you can follow me on Twitter [https://twitter.com/yoansj](https://twitter.com/yoansj) <br />
+I'm currently looking for a part-time job 💼 <br />
 Want to work with me ? Email me at 📧 yoansjpro@gmail.com 📧
